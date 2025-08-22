@@ -1,0 +1,6 @@
+com\example\netty\MyClient.class
+com\example\netty\MyServerHandler.class
+com\example\netty\MyClient$1.class
+com\example\netty\MyServer$1.class
+com\example\netty\MyServer.class
+com\example\netty\MyClientHandler.class
